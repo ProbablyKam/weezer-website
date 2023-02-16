@@ -1,0 +1,9 @@
+@font-face {
+  font-family: weezerfont;
+  src: url(assets/font/weezerfont.woff2);
+}
+body {
+  font-family: weezerfont;
+  background-color: #159bd0;
+  text-align: center;
+}
